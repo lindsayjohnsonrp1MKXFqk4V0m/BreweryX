@@ -232,3 +232,5 @@ customItemsFile:
     name: El nombre que el objeto debe tener (Códigos de formato posibles, como &6 o hexadecimal como &#<hex>)
     lore: Que debe estar en el lore del objeto
     customModelData: El modelo personalizado que el objeto debe de tener, en formato de lista
+
+# Update: 2025-10-26
